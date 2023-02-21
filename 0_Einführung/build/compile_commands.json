@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/robin/git/prcpp/0_Einführung/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/einfuerung.dir/main.cpp.o -c /home/robin/git/prcpp/0_Einführung/main.cpp",
+  "file": "/home/robin/git/prcpp/0_Einführung/main.cpp"
+},
+{
+  "directory": "/home/robin/git/prcpp/0_Einführung/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/einfuerung.dir/source.cpp.o -c /home/robin/git/prcpp/0_Einführung/source.cpp",
+  "file": "/home/robin/git/prcpp/0_Einführung/source.cpp"
+}
+]

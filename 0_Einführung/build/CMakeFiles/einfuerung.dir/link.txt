@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/einfuerung.dir/main.cpp.o CMakeFiles/einfuerung.dir/source.cpp.o -o einfuerung 
