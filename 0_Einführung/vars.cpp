@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdint>
 
+// auto creates a function for every type that calls it
 void print(auto v) {
     std::cout << v << ", Anzahl Bytes:" << sizeof(v) << std::endl;
 }
