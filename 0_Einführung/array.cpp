@@ -1,7 +1,7 @@
 #include <iostream>
 
 constexpr int foo() {
-    return 1 << 15; // bitshift
+    return 1 << 15; // bitshift (= 2 ** 15)
 }
 
 int main(int args, char* argv[]) {

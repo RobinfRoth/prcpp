@@ -16,7 +16,7 @@ namespace test {
 }
 
 int main(int args, char* argv[]) {
-    // cout ist object aus dem namesapce std 
+    // cout is an object from namespace std 
     std::cout << "Hello World!" << std::endl;
     for (int i = 0; i < args; i++) {
         std::cout << i << ": " << argv[i] << std::endl;
