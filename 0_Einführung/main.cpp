@@ -7,6 +7,6 @@ static void foo1() {
 } // only available inside this compilation unity   
 
 int main(int args, char* argv[]) {
-    foo1(); // forks, since it is the same compilation unit
+    foo1(); // works, since it is the same compilation unit
     foo2(); // works as well, when linked together via CMake
 }
